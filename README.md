@@ -1,4 +1,4 @@
-Customer Segmentation Using K-Means Clustering
+#Customer Segmentation Using K-Means Clustering
 Project Overview
 This project demonstrates how K-Means clustering can be used to perform customer segmentation based on purchasing behavior. Using the mall_customers.csv dataset from a retail store, we analyze customer data to uncover distinct segments, helping businesses tailor marketing strategies and improve customer engagement.
 
